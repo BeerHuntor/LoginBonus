@@ -1,0 +1,11 @@
+name: LoginBonus
+version: 0.5
+description: Login rewards for your players configurable.
+author:
+    BeerHuntor
+website: http://www.beercraftmc.enjin.com
+main: me.BeerHuntor.LoginBonus.LoginBonus
+permissions:
+  LoginBonus.true:
+    description: Allows the player to get the reward
+    default: op
